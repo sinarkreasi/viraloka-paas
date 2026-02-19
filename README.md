@@ -3,7 +3,7 @@
 ### Build Scalable SaaS on WordPress CMS Self-hosted
 
 Viraloka is a lightweight Platform-as-a-Service layer designed for builders who want structure, scalability, and long-term control.
-It transforms WordPress into a modular, multi-tenant, event-driven application engine — without turning your system into a performance nightmare.
+It transforms WordPress into a modular, multi-tenant, event-driven application engine without turning your system into a performance nightmare.
 
 ---
 
@@ -60,7 +60,7 @@ Built for multi-tenant SaaS from day one.
 
 ### Billing & Entitlement Aware
 
-Usage tracking and entitlement validation are first-class citizens — not afterthoughts.
+Usage tracking and entitlement validation are first-class citizens not afterthoughts.
 
 ### Event-Driven System
 
@@ -78,7 +78,7 @@ Viraloka ensures:
 * Architecture remains clean
 * Expansion does not break the core
 
-Whether you stay on WordPress or migrate engines later — your structure stays intact.
+Whether you stay on WordPress or migrate engines later your structure stays intact.
 
 ---
 
@@ -89,7 +89,7 @@ Whether you stay on WordPress or migrate engines later — your structure stays 
 * Product teams validating scalable ideas
 * Developers who care about architecture
 
-If you think in systems — Viraloka fits.
+If you think in systems Viraloka fits.
 
 ---
 
@@ -98,7 +98,7 @@ If you think in systems — Viraloka fits.
 Other solutions focus on features.
 Viraloka focuses on foundation.
 
-Because scalable products are built on architecture — not shortcuts.
+Because scalable products are built on architecture not shortcuts.
 
 ---
 
